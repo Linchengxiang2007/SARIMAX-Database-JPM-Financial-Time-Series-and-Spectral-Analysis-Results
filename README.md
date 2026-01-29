@@ -1,6 +1,6 @@
 # SARIMAX-Database: JPM Financial Time-Series and Spectral Analysis Results
 
-[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI](https://zenodo.org/badge/1144349097.svg)](https://doi.org/10.5281/zenodo.18413858)
 
 ## Overview
 This repository contains the dataset and model configurations for the paper: "Stochastic Modeling in Quantitative Finance: A Theoretical Analysis of Spectral Density, Estimators, and the SARIMAX Process". It focuses on ARIMAX modeling and spectral analysis.
@@ -12,12 +12,13 @@ This repository contains the dataset and model configurations for the paper: "St
 
 ## Citation
 Please use the following BibTeX to cite this work:
-@misc{Lin2026SARIMAX,
+@dataset{Lin2026_SARIMAX,
   author       = {Lin, Chengxiang},
   title        = {{SARIMAX-Database: JPM Financial Time-Series and Spectral Analysis Results}},
   year         = {2026},
-  howpublished = {GitHub repository},
-  version      = {v1.0.0},
-  url          = {https://github.com},
-  note         = {\url{https://github.com/Linchengxiang2007/SARIMAX-Database}}
+  version      = {v1.0.1},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18413858},
+  url          = {https://doi.org},
+  note         = {Available at \url{https://doi.org}}
 }
