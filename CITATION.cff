@@ -4,8 +4,8 @@ authors:
 - family-names: "Lin"
   given-names: "Chengxiang"
   orcid: "https://orcid.org/0009-0009-5371-2726"
-title: "SARIMAX-Database"
-version: 1.0.0
+title: "SARIMAX-Database: JPM Financial Time-Series and Spectral Analysis Results"
+version: 1.0.1
 doi: 10.5281/zenodo.18413858
 date-released: 2026-01-29
-url: "https://github.com/Linchengxiang2007/SARIMAX-Database"
+url: "https://github.com/Linchengxiang2007/SARIMAX-Database-JPM-Financial-Time-Series-and-Spectral-Analysis-Results"
