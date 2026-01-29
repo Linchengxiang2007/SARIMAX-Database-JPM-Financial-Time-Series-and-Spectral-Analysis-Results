@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite it as below."
+authors:
+- family-names: "Lin"
+  given-names: "Chengxiang"
+  orcid: "https://orcid.org/0009-0009-5371-2726"
+title: "SARIMAX-Database"
+version: 1.0.0
+doi: 10.5281/zenodo.18413859
+date-released: 2026-01-29
+url: "https://github.com/Linchengxiang2007/SARIMAX-Database"
