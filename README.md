@@ -16,7 +16,7 @@ Please use the following BibTeX to cite this work:
   author       = {Lin, Chengxiang},
   title        = {{SARIMAX-Database: JPM Financial Time-Series and Spectral Analysis Results}},
   year         = {2026},
-  version      = {v1.0.1},
+  version      = {v1.0.3},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.18413858},
   url          = {https://doi.org},
